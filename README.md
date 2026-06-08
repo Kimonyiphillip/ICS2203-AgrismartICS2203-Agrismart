@@ -1,10 +1,21 @@
 # AgriSmart
 
+
 AgriSmart is a web-based agricultural marketplace system developed using **HTML, CSS, JavaScript, PHP and MySQL**.
+## Contributors
+
+- Member 1 PHILLIP KIMONYI
+REG: SCT212-0057/2024
+ — Backend development, database implementation, CRUD functionality
+- Member 2 —BRIAN MAINA
+REG: SCT212-0045/2024
+Frontend styling, testing and documentation support
 
 The platform connects **farmers** and **buyers**, allowing farmers to manage products and buyers to browse and place orders through an online marketplace.
 
 ---
+LINKS:
+YOUTUBE VIDEO: (https://youtu.be/iZzB0iOlJJ4)
 
 ## Features
 
@@ -83,13 +94,5 @@ htdocs/Agrismartproject
 6. Import required tables.
 7. Open the application:
 
-```txt
+
 http://localhost/Agrismartproject
-```
-
----
-
-## Contributors
-
-- Member 1 phillip kimonyi — Backend development, database implementation, CRUD functionality
-- Member 2 —joakim macharia Frontend styling, testing and documentation support

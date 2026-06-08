@@ -3,7 +3,7 @@
 
 session_start();
 
-include("db.php");
+include("db.php");//
 
 $message = "";
 
